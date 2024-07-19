@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E57A0B</color>
+    <color name="onButtonPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#C05F00</color>
+    <color name="colorAccent">#C05F00</color>
+    <color name="NowColor">#00BCD4</color>
+    <color name="LaterColor">#F5F5F5</color>
+    <color name="ButtonColor">#00BCD4</color>
+    <color name="DeleteColor">#D32F2F</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Red">#FF0000</color>
+</resources>
